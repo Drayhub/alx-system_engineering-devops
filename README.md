@@ -1,1 +1,1 @@
-Just a the basic of shell with bash commands
+Just the basic of shell with bash commands
