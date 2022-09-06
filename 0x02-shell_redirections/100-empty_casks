@@ -1,2 +1,1 @@
-#!/bin/bash
 -type f -empty -print 
