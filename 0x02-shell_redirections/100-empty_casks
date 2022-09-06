@@ -1,2 +1,2 @@
 #!/bin/bash
--type f -empty -print /alx-system_engineering-devops
+-type f -empty -print /0x02-shell_redirections
