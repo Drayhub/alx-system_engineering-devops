@@ -1,1 +1,2 @@
--type f -empty -print 
+#!/bin/bash
+-type f ~/0x02-shell_redirections -empty -print 
